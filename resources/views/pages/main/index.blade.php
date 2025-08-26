@@ -35,7 +35,7 @@
             href="#contact"
             class="border-2 border-white text-white hover:bg-white hover:text-indigo-600 px-6 py-3 rounded-lg font-bold text-center transition duration-300"
         >
-            Бесплатный урок
+            Бесплатный урок 11
         </a>
         </div>
     </div>
