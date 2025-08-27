@@ -183,7 +183,7 @@
             <a
                 href="{{ route('main') }}#contact"
                 class="text-gray-400 hover:text-white transition duration-300"
-                >Контакты VAL</a
+                >Контакты</a
             >
             </li>
             {{-- <li>
