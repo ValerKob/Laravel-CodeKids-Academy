@@ -324,7 +324,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 1: Изучаем основы в Roblox Studio
+              Модуль 1: Изучаем основы в Roblox Studio.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 урока • 5 часа
@@ -358,7 +358,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Учимся взаимодействовать с объектами Part и Cylinder</span
+                  >Учимся взаимодействовать с объектами Part и Cylinder.</span
                 >
               </li>
               <li class="flex items-center">
@@ -368,7 +368,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Изучаем как работать с Folder, Explorer, Properties </span
+                  >Изучаем как работать с Folder, Explorer, Properties.</span
                 >
               </li>
               <li class="flex items-center">
@@ -378,7 +378,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Работаем со свойствами объектов Appearance, Data, Transform</span
+                  >Работаем со свойствами объектов Appearance, Data, Transform.</span
                 >
               </li>
               <li class="flex items-center">
@@ -388,7 +388,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Изучаем вкалдку Model, учимся генерировать ландшафт</span
+                  >Изучаем вкалдку Model, учимся генерировать ландшафт.</span
                 >
               </li>
               <li class="flex items-center">
@@ -398,7 +398,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Повторяем материал и изучаем новую вкладку Create свойства (Hinge и Weld)</span
+                  >Повторяем материал и изучаем новую вкладку Create свойства (Hinge и Weld).</span
                 >
               </li>
             </ul>
@@ -411,7 +411,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 2: Создаём свой мир (Изучам язык программирования Lua)
+              Модуль 2: Создаём свой мир (Изучам язык программирования Lua).
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
@@ -445,7 +445,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Работаем с моделями, основы языка программирования Lua</span
+                  >Работаем с моделями, основы языка программирования Lua. Да да, тут напишешь свой первый код)</span
                 >
               </li>
               <li class="flex items-center">
@@ -455,7 +455,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Пишим скрипт, для создания Дня и Ночи</span
+                  >Пишим скрипт, для создания Дня и Ночи. Заставим с тобой вращаться солнце;)</span
                 >
               </li>
               <li class="flex items-center">
@@ -465,7 +465,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создаём сюжетную линию в нашей игре</span
+                  >Погружаемся в изучение if, for, while и других синтаксических операторов </span
                 >
               </li>
               <li class="flex items-center">
@@ -475,7 +475,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создаём анимаций, изучаем свойства Effects, Material, color</span
+                  >Создаём анимаций, изучаем свойства Effects, Material, color. Сделам этот мир ярче.</span
                 >
               </li>
               <li class="flex items-center">
@@ -484,7 +484,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Закрепляем материал, повторяем свойства Union, Intersect, Negate, Separate</span>
+                <span class="text-gray-400">Закрепляем материал, повторяем свойства Union, Intersect, Negate, Separate.</span>
               </li>
             </ul>
           </div>
@@ -496,7 +496,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 3: Содаём логику и анимацию в игре с помощью языка Lua
+              Модуль 3: Содаём логику и анимацию в игре с помощью языка Lua.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 урока • 5 часа
@@ -530,7 +530,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создаём квесты в нашей игре</span
+                  >Создаём сюжетную линию в нашей игре.</span
                 >
               </li>
               <li class="flex items-center">
@@ -540,7 +540,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Реализуем телепортацию и анимации в игре</span
+                  >Создаём квесты в нашей игре.</span
                 >
               </li>
               <li class="flex items-center">
@@ -550,7 +550,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Погружаемся в изучение if, for, while и других синтаксических операторов </span
+                  >Реализуем телепортацию и анимации в игре.</span
                 >
               </li>
               <li class="flex items-center">
@@ -570,7 +570,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Повторение пройденного материала</span
+                  >Закрепляем пройденный материал.</span
                 >
               </li>
             </ul>
@@ -627,7 +627,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создаём гонки, делаем гоночную трассу, старт и финишь.</span
+                  >Создаём гонки, делаем гоночную трассу, старт и финишь. Тут мы с тобой, заставим всё кататься.</span
                 >
               </li>
               <li class="flex items-center">
@@ -753,7 +753,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Повторение пройденного материала.</span
+                  >Закрепляем пройденный материал и делаем своё мини-портфолио.</span
                 >
               </li>
             </ul>

@@ -365,7 +365,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Числа и вычисления: простая математика в Python.</span>
+                <span class="text-gray-400">Числа и вычисления: простая математика в Python. Integer и Float/</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -374,7 +374,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Текст и ввод данных от пользователя.</span
+                  >Работа с данными от пользователя. String, Bool, Integer and Float.</span
                 >
               </li>
               <li class="flex items-center">
@@ -398,7 +398,7 @@
           <div>
             <h3 class="font-semibold">Модуль 2: Логика в программах</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 урока • 4 часа
+              6 уроков • 6 часов
             </p>
           </div>
           <button
@@ -456,51 +456,6 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400"
-                  >Закрепляем пройденный материал и создаём мини-игру.</span
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- Модуль 3 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">Модуль 3: Логический код</h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 урока • 4 часа
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
                 <span class="text-gray-400">Функции и зачем они нужны.</span>
               </li>
               <li class="flex items-center">
@@ -519,16 +474,8 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Подключение библиотек и использование чужого кода.</span>
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
                 <span class="text-gray-400"
-                  >Закрепляем пройденный материал.</span
+                  >Закрепляем пройденный материал и создаём мини-игру.</span
                 >
               </li>
             </ul>
@@ -536,13 +483,13 @@
         </div>
       </div>
 
-      <!-- Модуль 4 -->
+      <!-- Модуль 3 -->
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 4: Хранение данных</h3>
+            <h3 class="font-semibold">Модуль 3:Работаем с библиотеками, с запросами, а так же с Big данными.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 урока • 4 часа
+              6 урока • 6 часа
             </p>
           </div>
           <button
@@ -566,6 +513,22 @@
             </div>
 
             <ul class="space-y-3">
+               <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400">Подключение библиотек и использование чужого кода.</span>
+              </li>
+               <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400">Работа с запросами Git. Delete, Update, Insert, Select.</span>
+              </li>
               <li class="flex items-center">
                 <div
                   class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
@@ -593,7 +556,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Массивы в нутри других массивов.</span
+                  >Массивы внутри других массивов.</span
                 >
               </li>
               <li class="flex items-center">
@@ -603,18 +566,18 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Закрепляем пройденный материал.</span
+                  >Закрепляем пройденный материал. Делаем мини-игру.</span
                 >
               </li>
             </ul>
           </div>
         </div>
       </div>
-      <!-- Модуль 5 -->
+      <!-- Модуль 4 -->
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 5: Объектный подход</h3>
+            <h3 class="font-semibold">Модуль 4: Объектный подход.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               4 урока • 4 часа
             </p>
@@ -654,7 +617,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Иерархия и повторное использование кода.</span>
+                <span class="text-gray-400">Дробим всё на папки и подключаем их друг к другу.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -672,17 +635,17 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Закрепляем пройденный материал и создаём Аркадную мини-игру/</span>
+                <span class="text-gray-400">Закрепляем пройденный материал и создаём мини шутер.</span>
               </li>
             </ul>
           </div>
         </div>
       </div>
-      <!-- Модуль 6 -->
+      <!-- Модуль 5 -->
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 6: Игровая разработка на библиотеке PyGame.</h3>
+            <h3 class="font-semibold">Модуль 5: Игровая разработка на библиотеке PyGame.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               6 уроков • 6 часов
             </p>
@@ -865,9 +828,9 @@
         >
           <h3 class="text-xl font-bold mb-2">Старт</h3>
           <div class="text-primary-500 text-2xl font-bold mb-4">
-            11 250 ₽
+            9 750 ₽
             <span class="text-gray-500 text-base font-normal"
-              >За 15 уроков</span
+              >За 13 уроков</span
             >
           </div>
           <ul class="flex-grow space-y-3 mb-6">

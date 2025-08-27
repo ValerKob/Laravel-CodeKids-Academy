@@ -338,7 +338,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 1: Старт в Unity</h3>
+            <h3 class="font-semibold">Модуль 1: Старт в Unity.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
             </p>
@@ -381,7 +381,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Основы объектов: элементы сцены и их свойства</span
+                  >Основные элементы сцены и их свойства.</span
                 >
               </li>
               <li class="flex items-center">
@@ -391,7 +391,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Декорации и текстуры: придание визуального стиля</span
+                  >Создаём карту, с помощь Сubes, Spheres, Planes.</span
                 >
               </li>
               <li class="flex items-center">
@@ -401,7 +401,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Мини-проект: создаём интерактивный прототип</span
+                  >Освещение и тени: игра со светом. Импорт картинок и моделей в проект</span
                 >
               </li>
               <li class="flex items-center">
@@ -593,7 +593,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 4: Анимация и динамика. Тут мы с тобой заставим всё двигаться.</h3>
+            <h3 class="font-semibold">Модуль 4: Тут мы с тобой заставим всё двигаться. Динамика и Анимация.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               4 урока • 4 часа
             </p>
@@ -634,7 +634,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Заставляем двигаться объекты.</span
+                  >Заставляем двигаться и вращаться, всё что угодно.</span
                 >
               </li>
               <li class="flex items-center">
@@ -644,7 +644,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >А теперь заставим вращаться всё что угодно.</span
+                  >Реализуем телпортацию между уровнями.</span
                 >
               </li>
               <li class="flex items-center">

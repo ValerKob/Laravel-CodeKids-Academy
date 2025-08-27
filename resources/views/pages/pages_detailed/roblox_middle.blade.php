@@ -325,10 +325,10 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 1: Погружаемся в Roblox Studio
+              Модуль 1: Погружаемся в Roblox Studio.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              5 уроков • 5 часов
+              4 урока • 4 часа
             </p>
           </div>
           <button
@@ -369,7 +369,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создание первой сцены: простая площадка для экспериментов.</span
+                  >Создание первой сцены: простая площадка для экспериментов. Cube, Cylinder и Part.</span
                 >
               </li>
               <li class="flex items-center">
@@ -379,17 +379,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Основы игрового дизайна: баланс и простая механика.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Доработка проекта: добавляем детали и объекты.</span
+                  >Основы игрового дизайна: баланс и простая механика. Color, Materials.</span
                 >
               </li>
               <li class="flex items-center">
@@ -411,7 +401,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 2: Мир от первого лица</h3>
+            <h3 class="font-semibold">Модуль 2: Ролевые механики в Roblox и язык программирования Lua.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
             </p>
@@ -444,7 +434,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создаём свою первую карту.</span
+                  >Жанр RPG: что в нём главное. Кто такой этот Lua?</span
                 >
               </li>
               <li class="flex items-center">
@@ -454,7 +444,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Постройка деревни или базы.</span
+                  >Создание персонажей и настройка их свойств.</span
                 >
               </li>
               <li class="flex items-center">
@@ -464,7 +454,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Логика объектов: подвижные и интерактивные элементы.</span
+                  >Боевая механика и эффекты.</span
                 >
               </li>
               <li class="flex items-center">
@@ -474,7 +464,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Добавляем задания для игрока.</span
+                  >Система прогресса: опыт, уровни, достижения.</span
                 >
               </li>
               <li class="flex items-center">
@@ -581,7 +571,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 4: Ролевые механики в Roblox</h3>
+            <h3 class="font-semibold">Модуль 4: Глубокое погружение в Lua. Тут мы узнаем то, чего ни кто не знает.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
             </p>
@@ -614,7 +604,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Жанр RPG: что в нём главное.</span
+                  >Создаём свою карту с помощью кода. Function, Class, Model и While.</span
                 >
               </li>
               <li class="flex items-center">
@@ -624,7 +614,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создание персонажей и настройка их свойств.</span
+                  >Создаём строения с помощью языка программирования Lua. Массивы данных наши друзья.</span
                 >
               </li>
               <li class="flex items-center">
@@ -634,7 +624,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Боевая механика и эффекты.</span
+                  >Логика объектов: подвижные и интерактивные элементы. Оживляем нам мини город с помощью Lua.</span
                 >
               </li>
               <li class="flex items-center">
@@ -644,7 +634,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Система прогресса: опыт, уровни, достижения.</span
+                  >Добавляем задания для игрока. Делаем квесты.</span
                 >
               </li>
               <li class="flex items-center">
@@ -665,9 +655,9 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 5: Играем вместе</h3>
+            <h3 class="font-semibold">Модуль 5: Играем вместе. Выкладываем игру в Roblox Player.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 уроков • 4 часа
+              7 уроков • 7 часов
             </p>
           </div>
           <button
@@ -726,60 +716,6 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Закрепляем пройденный материал.</span
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- Модуль 6 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">Модуль 6: Платформеры и экшен</h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 урока • 4 часа
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Что такое платформер: основы жанра.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
                   >Построение уровня с препятствиями.</span
                 >
               </li>
@@ -800,7 +736,17 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Итог: презентация собственной экшен-игры.</span
+                  >Делаем много уровневую игру.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Выкладываем игру в Roblox Player и создаём мини-портфолио.</span
                 >
               </li>
             </ul>
@@ -906,9 +852,9 @@
         >
           <h3 class="text-xl font-bold mb-2">Старт</h3>
           <div class="text-primary-500 text-2xl font-bold mb-4">
-            10 500 ₽
+            9 750 ₽
             <span class="text-gray-500 text-base font-normal"
-              >За 14 уроков</span
+              >За 13 уроков</span
             >
           </div>
           <ul class="flex-grow space-y-3 mb-6">
@@ -961,9 +907,9 @@
         >
           <h3 class="text-xl font-bold mb-2">Pro</h3>
           <div class="text-primary-500 text-2xl font-bold mb-4">
-            21 000 ₽
+            19 500 ₽
             <span class="text-gray-500 text-base font-normal"
-              >за 28 уроков</span
+              >за 26 уроков</span
             >
           </div>
           <ul class="flex-grow space-y-3 mb-6">

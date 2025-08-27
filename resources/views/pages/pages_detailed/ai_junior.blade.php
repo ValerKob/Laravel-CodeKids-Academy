@@ -502,7 +502,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 3: ИИ-помощник в создании игр
+              Модуль 3: ИИ-помощник в создании игр. Python тут как тут.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               6 уроков • 6 часов
@@ -545,7 +545,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Продумываем сюжетную базу</span>
+                <span class="text-gray-400">Продумываем сюжетную базу.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -554,7 +554,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Автоматическая генерация скриптов</span
+                  >Автоматическая генерация скриптов на Python.</span
                 >
               </li>
               <li class="flex items-center">
@@ -564,7 +564,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Пише язык программирования с помощью ИИ.</span
+                  >Пишем на языке программирования с помощью ИИ.</span
                 >
               </li>
               <li class="flex items-center">
@@ -597,7 +597,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 4: Завершаем проект: графика, звук и видео
+              Модуль 4: Завершаем проект: графика, звук и видео.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               6 уроков • 6 часов

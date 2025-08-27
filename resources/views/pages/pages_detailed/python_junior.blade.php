@@ -317,10 +317,10 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 1: Знакомство с основами Python
+              Модуль 1: Знакомство с основами Python. Переменные и типы данных.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 уроков • 4 часа
+              5 уроков • 5 часов
             </p>
           </div>
           <button
@@ -350,7 +350,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Погружаемся в мир Python</span>
+                <span class="text-gray-400">Погружаемся в мир Python. Тут мы с тобой узнаем, что это за змея такая.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -359,7 +359,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Работа с данными: создаём переменные</span
+                  >Работа с данными: создаём переменные. Учимся хранить данные.</span
                 >
               </li>
               <li class="flex items-center">
@@ -369,7 +369,17 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Символы и тексты: изучаем строки</span
+                  >Символы и тексты: изучаем строки. Что такое String.</span
+                >
+              </li>
+               <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Кто такой этот Boolean? А так же String, Integer и Float.</span
                 >
               </li>
               <li class="flex items-center">
@@ -392,8 +402,215 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 2: Построение логики программ
+              Модуль 2: Построение логики программ. Function - кто она такая?
             </h3>
+            <p class="text-sm text-gray-600 dark:text-gray-100">
+              7 уроков • 7 часов
+            </p>
+          </div>
+          <button
+            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
+          >
+            <i
+              class="ri-arrow-down-s-line transition-transform duration-300"
+            ></i>
+          </button>
+        </div>
+
+        <div
+          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
+          style="height: 0"
+        >
+          <div class="inner p-0">
+            <div class="mb-3">
+              <div class="progress-bar">
+                <div class="progress" style="width: 100%"></div>
+              </div>
+            </div>
+
+            <ul class="space-y-3">
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Как работает if: первый шаг к логике. Что если?</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Углублённая логика: условия внутри условий. if, elif, else.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Повторяем действия: цикл for и while. Бесконечность не предел.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400">Условия + циклы, что они умею. if, else, while, for.</span>
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Что такое функция и зачем она нужна. Function.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Практика функций: продолжаем обучение.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Закрепляем пройденный материал.</span
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Модуль 3 -->
+      <div class="border border-gray-200 rounded-lg p-4">
+        <div class="flex justify-between items-start">
+          <div>
+            <h3 class="font-semibold">
+              Модуль 3: Очень важная глава Import, Random, Turtle и другие.
+            </h3>
+            <p class="text-sm text-gray-600 dark:text-gray-100">
+              7 уроков • 7 часов
+            </p>
+          </div>
+          <button
+            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
+          >
+            <i
+              class="ri-arrow-down-s-line transition-transform duration-300"
+            ></i>
+          </button>
+        </div>
+
+        <div
+          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
+          style="height: 0"
+        >
+          <div class="inner p-0">
+            <div class="mb-3">
+              <div class="progress-bar">
+                <div class="progress" style="width: 100%"></div>
+              </div>
+            </div>
+
+            <ul class="space-y-3">
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Изучаем встроенные модули: случайности и время. Import.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400">Что такое Import Random. Новая библиотека.</span>
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Turtle, что за библиотека такая интересная.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Используем циклы для рисования. For + Turtle</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >9 и 11 класс, так вот зачем нужен был Turtle. В ОГЭ и ЕГЭ.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Решаем сложные задачи с черепахами и чертёжниками.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Закрепляем пройденный материал.</span
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- Модуль 4 -->
+      <div class="border border-gray-200 rounded-lg p-4">
+        <div class="flex justify-between items-start">
+          <div>
+            <h3 class="font-semibold">Модуль 5: Работа с файлами и Принципы ООП на Python, база базой.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
             </p>
@@ -426,7 +643,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Как работает if: первый шаг к логике</span
+                  >Учимся дробить весь проект по папкам.</span
                 >
               </li>
               <li class="flex items-center">
@@ -436,7 +653,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Углублённая логика: условия внутри условий</span
+                  >Делам возможность отлавливать события пользователя.</span
                 >
               </li>
               <li class="flex items-center">
@@ -446,7 +663,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Повторяем действия: цикл for и while</span
+                  >Делаем свой личный ежедневник.</span
                 >
               </li>
               <li class="flex items-center">
@@ -455,157 +672,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Продолжаем изучать циклы</span>
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Закрепляем пройденный материал.</span
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- Модуль 3 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">Модуль 3: Разбиваем код на части</h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 уроков • 4 часа
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Что такое функция и зачем она нужна</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Практика функций: продолжаем обучение</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Изучаем встроенные модули: случайности и время</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400">Закрепляем пройденный материал.</span>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- Модуль 4 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">
-              Модуль 4: Turtle-графика и практическая математика
-            </h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 уроков • 4 часа
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Turtle-графика: рисуем пошагово</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Используем циклы для рисования</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Условия и ветвления в графике</span
-                >
+                <span class="text-gray-400">Делаем свой калькулятор.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -625,7 +692,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 5: Принципы ООП на Python</h3>
+            <h3 class="font-semibold">Модуль 5: Теперь у нас с тобой есть знания, значит пора Создавать игры с PyGame</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               6 уроков • 6 часов
             </p>
@@ -658,7 +725,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Объекты, методы и их взаимодействие</span
+                  >Первые шаги в разработке игр.</span
                 >
               </li>
               <li class="flex items-center">
@@ -668,7 +735,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Реакция на действия пользователя: события</span
+                  >Работаем с отрисовкой пространства.</span
                 >
               </li>
               <li class="flex items-center">
@@ -678,109 +745,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Практика: создаём простую рисовалку</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400">Знакомство с классами</span>
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Наследование: передаём поведение</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Закрепляем пройденный материал.</span
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- Модуль 6 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">Модуль 6: Создание игр с PyGame</h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              8 уроков • 8 часов
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Первые шаги в разработке игр</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Списки в играх: управление данными</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Создаем игру Кликер.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Новый проект: Создаем игру змейка. (Часть 1).</span
+                  >Создаем игру змейка. (Часть 1).</span
                 >
               </li>
               <li class="flex items-center">
@@ -800,7 +765,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Новый проект: Создаём Аркады.</span
+                  >Создаем Dodge the Blocks. Увернись от падающих кубов.</span
                 >
               </li>
               <li class="flex items-center">
@@ -810,17 +775,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создаем Платформер</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Закрепляем пройденный материал</span
+                  >Закрепляем пройденный материал и создаём мини-портфолио.</span
                 >
               </li>
             </ul>

@@ -362,7 +362,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Первые шаги в HTML</span>
+                <span class="text-gray-400">Первые шаги в HTML.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -371,7 +371,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Оформление контента: текст, изображения и списки.</span
+                  >Делайм первые шаги в оформлений сайта. Тот самый, легендарный (DIV)!</span
                 >
               </li>
               <li class="flex items-center">
@@ -381,7 +381,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Таблицы и блоки. Тот самый, легендарный (DIV)!</span
+                  >Добавляем Img, A, P, H1, Span, Table и другие.</span
                 >
               </li>
               <li class="flex items-center">
@@ -404,10 +404,10 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 2: CSS: стиль, порядок, магия
+              Модуль 2: CSS: стиль, порядок, магия. Figma, Tilda and Photoshop.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              7 уроков • 7 часов
+              6 уроков • 6 часов
             </p>
           </div>
           <button
@@ -438,7 +438,27 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Основы стилей: цвета, шрифты и селекторы. Изучаем CSS.</span
+                  >Создаём макет сайта в Figma and Tilda.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Верстка по макету: Flexbox и Grid в действии.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Эффекты наведения и интерактивные элементы. :hover.</span
                 >
               </li>
               <li class="flex items-center">
@@ -458,37 +478,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Контейнеры, эффекты наведения и интерактивные элементы. :hover.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Верстка по макету: Flexbox в действии.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Отступы, размеры и плавные переходы</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Grid и Анимации. :animation.</span
+                  >Отступы, размеры и плавные переходы. Анимаций.</span
                 >
               </li>
               <li class="flex items-center">
@@ -511,7 +501,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 3: JavaScript с нуля до интерактива. Это JS Друг мой.
+              Модуль 3: JavaScript с нуля до интерактива. Это JS, Друг мой. Создадим калькулятор.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
@@ -575,7 +565,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Основы ООП. Тема где ты всё по папкам сортируешь.</span
+                  >Создаём свой собственный калькулятор.</span
                 >
               </li>
               <li class="flex items-center">
@@ -597,9 +587,9 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 4: Создаём свой Snake (Змейку) на сайте)</h3>
+            <h3 class="font-semibold">Модуль 4: Создаём свои игры. Snake (Змейка) на сайте)</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 урока • 4 часа
+            5 уроов • 5 часов
             </p>
           </div>
           <button
@@ -630,7 +620,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Структурируем проект.</span
+                  >Структурируем проект. Создаем папки сортируем их, в главной папке Assets.</span
                 >
               </li>
               <li class="flex items-center">
@@ -640,7 +630,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Все начинаем красить.</span
+                  >Создаём первую игру на JS, Dodge the Blocks.</span
                 >
               </li>
               <li class="flex items-center">
@@ -650,7 +640,17 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Тут мы делаем всю логику игры на js.</span
+                  >Начинаем делать Snake. Подготовка, дизайн и анимаций.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Делаем логику нашей Snake на JS.</span
                 >
               </li>
               <li class="flex items-center">
@@ -706,7 +706,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Git: история и работа с репозиториями/</span
+                  >Git: история и работа с репозиториями.</span
                 >
               </li>
               <li class="flex items-center">
@@ -716,7 +716,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >VS Code, терминал и работа с ветками.</span
+                  >Создаём структуру проекта.</span
                 >
               </li>
               <li class="flex items-center">
@@ -726,7 +726,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Планирование группового проекта</span
+                  >Выкладываем на GitHub, делаем public доступ.</span
                 >
               </li>
               <li class="flex items-center">
@@ -735,17 +735,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Совместная вёрстка</span>
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Программирование логики приложения</span
-                >
+                <span class="text-gray-400">Подключаем OpenServer, будем работать с базами данных.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -754,7 +744,17 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Закрепляем пройденный материал и делаем Публикацию проекта: хостинг и запуск</span
+                  >Создаём запросы к базе данных. Delete, Update, Insert, Select.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Выкладываем всё в интернет и делаем мини-портфолио.</span
                 >
               </li>
             </ul>

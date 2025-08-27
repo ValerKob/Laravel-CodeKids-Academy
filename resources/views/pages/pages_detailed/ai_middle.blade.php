@@ -361,7 +361,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 1: Введение в мир искусственного интеллекта
+              Модуль 1: Введение в мир искусственного интеллекта.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               4 урока • 4 часа
@@ -437,7 +437,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 2: Программирование с помощью ИИ</h3>
+            <h3 class="font-semibold">Модуль 2: Программирование с помощью ИИ.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               4 урока • 4 часа
             </p>
@@ -512,7 +512,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 3: Искусственный интеллект в графике</h3>
+            <h3 class="font-semibold">Модуль 3: Искусственный интеллект в графикею.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 урока • 5 часов
             </p>
@@ -598,10 +598,10 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 4: Озвучка с ИИ
+              Модуль 4: Озвучка с ИИ и  Создание своей мультимедий. Делаем кино с нейросетями.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              5 урока • 5 часов
+              9 урока • 9 часов
             </p>
           </div>
           <button
@@ -663,51 +663,7 @@
                   >Фотографий оживают.</span
                 >
               </li>
-                <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Закрепляем пройденный материал.</span
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- Модуль 5 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">Модуль 5: Создание своей мультимедий.</h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 урока • 4 часа
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
+               <li class="flex items-center">
                 <div
                   class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
                 >
@@ -744,6 +700,16 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
+                  >Делаем кино с ИИ.</span
+                >
+              </li>
+                <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
                   >Закрепляем пройденный материал.</span
                 >
               </li>
@@ -751,12 +717,12 @@
           </div>
         </div>
       </div>
-      <!-- Модуль 6 -->
+      <!-- Модуль 5 -->
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 6: Анализ БЯМ.
+              Модуль 5: Анализ БЯМ.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               6 уроков • 6 часов

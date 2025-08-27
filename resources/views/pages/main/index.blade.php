@@ -287,7 +287,7 @@
                 >10-13 лет</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
-                >12 недель</span
+                >13 недель</span
             >
             </div>
             <h3 class="text-xl font-bold text-primary mb-2">
@@ -298,7 +298,7 @@
             Программирование на C#.
             </p>
             <div class="flex justify-between items-center">
-            <span class="text-lg font-bold text-primary">9 000 ₽</span>
+            <span class="text-lg font-bold text-primary">9 750 ₽</span>
             <a
                 href="{{ route('unity_junior') }}"
                 class="text-green-600 font-medium flex items-center hover:underline"
@@ -329,7 +329,7 @@
                 >10-13 лет</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
-                >16 недель</span
+                >14 недель</span
             >
             </div>
             <h3 class="text-xl font-bold text-primary mb-2">
@@ -340,7 +340,7 @@
             интерактивных проектов.
             </p>
             <div class="flex justify-between items-center">
-            <span class="text-lg font-bold text-primary">12 000 ₽</span>
+            <span class="text-lg font-bold text-primary">10 500 ₽</span>
             <a
                 href="{{ route('web_junior') }}"
                 class="text-green-600 font-medium flex items-center hover:underline"
@@ -371,7 +371,7 @@
                 >10-13 лет</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
-                >14 недель</span
+                >13 недель</span
             >
             </div>
             <h3 class="text-xl font-bold text-primary mb-2">
@@ -382,7 +382,7 @@
             языка Lua.
             </p>
             <div class="flex justify-between items-center">
-            <span class="text-lg font-bold text-primary">10 500 ₽</span>
+            <span class="text-lg font-bold text-primary">9 750 ₽</span>
             <a
                 href="{{ route('roblox_middle') }}"
                 class="text-green-600 font-medium flex items-center hover:underline"
@@ -412,7 +412,7 @@
                 >14-18 лет</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
-                >12 недель</span
+                >13 недель</span
             >
             </div>
             <h3 class="text-xl font-bold text-primary mb-2">
@@ -423,7 +423,7 @@
             данных. Создание сложных игр и программ.
             </p>
             <div class="flex justify-between items-center">
-            <span class="text-lg font-bold text-primary">11 250 ₽</span>
+            <span class="text-lg font-bold text-primary">9 750 ₽</span>
             <a
                 href="{{ route('python_middle') }}"
                 class="text-purple-600 font-medium flex items-center hover:underline"
@@ -451,7 +451,7 @@
                 >14-18 лет</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
-                >12 недель</span
+                >18 недель</span
             >
             </div>
             <h3 class="text-xl font-bold text-primary mb-2">
@@ -463,7 +463,7 @@
             пробные тесты.
             </p>
             <div class="flex justify-between items-center">
-            <span class="text-lg font-bold text-primary">9 000 ₽</span>
+            <span class="text-lg font-bold text-primary">13 500 ₽</span>
             <a
                 href="{{ route('use') }}"
                 class="text-purple-600 font-medium flex items-center hover:underline"
@@ -494,7 +494,7 @@
                 >10-18 лет</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
-                >13 недель</span
+                >14 недель</span
             >
             </div>
             <h3 class="text-xl font-bold text-primary mb-2">
@@ -505,7 +505,7 @@
             анализ данных. Создание умных программ и первых ИИ-проектов.
             </p>
             <div class="flex justify-between items-center">
-            <span class="text-lg font-bold text-primary">9 750 ₽</span>
+            <span class="text-lg font-bold text-primary">10 500 ₽</span>
             <a
                 href="{{ route('ai_middle') }}"
                 class="text-purple-600 font-medium flex items-center hover:underline"
@@ -548,7 +548,7 @@
             понятных инструментов.
             </p>
             <div class="flex justify-between items-center">
-            <span class="text-lg font-bold text-primary">12 500 ₽</span>
+            <span class="text-lg font-bold text-primary">9 000 ₽</span>
             <a
                 href="{{ route('ai_junior') }}"
                 class="text-blue-600 font-medium flex items-center hover:underline"
@@ -619,7 +619,7 @@
                 >14-18 лет</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
-                >15 недель</span
+                >13 недель</span
             >
             </div>
             <h3 class="text-xl font-bold text-primary mb-2">
@@ -630,7 +630,7 @@
             веб-сайтов и интерактивных проектов.
             </p>
             <div class="flex justify-between items-center">
-            <span class="text-lg font-bold text-primary">11 250 ₽</span>
+            <span class="text-lg font-bold text-primary">9 750 ₽</span>
             <a
                 href="{{ route('web_middle') }}"
                 class="text-purple-600 font-medium flex items-center hover:underline"
@@ -660,7 +660,7 @@
                 >10-18 лет</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
-                >15 недель</span
+                >13 недель</span
             >
             </div>
             <h3 class="text-xl font-bold text-primary mb-2">
@@ -671,7 +671,7 @@
             Программирование на C#.
             </p>
             <div class="flex justify-between items-center">
-            <span class="text-lg font-bold text-primary">11 250 ₽</span>
+            <span class="text-lg font-bold text-primary">9 750 ₽</span>
             <a
                 href="{{ route('unity_middle') }}"
                 class="text-purple-600 font-medium flex items-center hover:underline"

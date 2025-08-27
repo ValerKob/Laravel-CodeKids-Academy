@@ -332,9 +332,9 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 1: Погружение в мир Unity</h3>
+            <h3 class="font-semibold">Модуль 1: Погружение в мир Unity.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 урока • 4 часа
+              5 уроков • 5 часов
             </p>
           </div>
           <button
@@ -391,6 +391,14 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400">Импорт картинок и моделей в проект.</span>
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400">Закрепляем пройденный материал.</span>
               </li>
             </ul>
           </div>
@@ -459,16 +467,6 @@
                   >Постройка карты и добавление финиша.</span
                 >
               </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Закрепляем пройденный материал.</span
-                >
-              </li>
                <li class="flex items-center">
                 <div
                   class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
@@ -497,6 +495,16 @@
                   >Экран с жизнями игрока и интерфейс победы/поражения.</span
                 >
               </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Закрепляем пройденный материал.</span
+                >
+              </li>
             </ul>
           </div>
         </div>
@@ -510,7 +518,7 @@
               Модуль 3: Создание 2D-игры «Космический рейнджер»
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 уроков • 4 часа
+              5 уроков • 5 часов
             </p>
           </div>
           <button
@@ -569,6 +577,16 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400">Экран с очками и звуковые эффекты.</span>
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Закрепляем пройденный материал.</span
+                >
               </li>
             </ul>
           </div>
@@ -651,7 +669,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Мини-босс в космосе.</span
+                  >Закрепляем пройденный материал, делаем Мини-босса в космосе.</span
                 >
               </li>
             </ul>
@@ -727,7 +745,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Сборка игры и финальное тестирование.</span
+                  >Сборка игры и финальное тестирование. Делаем мини-портфолио.</span
                 >
               </li>
             </ul>
@@ -833,9 +851,9 @@
         >
           <h3 class="text-xl font-bold mb-2">Старт</h3>
           <div class="text-primary-500 text-2xl font-bold mb-4">
-            9 000 ₽
+            9 750 ₽
             <span class="text-gray-500 text-base font-normal"
-              >За 12 уроков</span
+              >За 13 уроков</span
             >
           </div>
           <ul class="flex-grow space-y-3 mb-6">
@@ -888,9 +906,9 @@
         >
           <h3 class="text-xl font-bold mb-2">Pro</h3>
           <div class="text-primary-500 text-2xl font-bold mb-4">
-            18 000 ₽
+            19 500 ₽
             <span class="text-gray-500 text-base font-normal"
-              >за 24 уроков</span
+              >за 26 уроков</span
             >
           </div>
           <ul class="flex-grow space-y-3 mb-6">

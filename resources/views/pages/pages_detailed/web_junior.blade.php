@@ -422,7 +422,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 2: Первые шаги в HTML</h3>
+            <h3 class="font-semibold">Модуль 2: Первые шаги в HTML.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
             </p>
@@ -503,9 +503,9 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 3: Работа с CSS</h3>
+            <h3 class="font-semibold">Модуль 3: Работа с CSS.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              5 уроков • 5 часов
+              7 уроков • 7 часов
             </p>
           </div>
           <button
@@ -567,6 +567,16 @@
                   >Классы и идентификаторы.</span
                 >
               </li>
+               <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Псевдоэлементы: оформление текста и объектов.</span
+                >
+              </li>
               <li class="flex items-center">
                 <div
                   class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
@@ -574,7 +584,17 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Практика: оформление личного сайта.</span
+                  >Позиционирование элементов на странице.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Закрепляем пройденный материал, оформление личного сайта.</span
                 >
               </li>
             </ul>
@@ -586,7 +606,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 4: Создание дизайна страницы
+              Модуль 4: Создание дизайна страницы.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               4 уроков • 4 часа
@@ -662,10 +682,10 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 5: Современные подходы к вёрстке
+              Модуль 5: Современные подходы к вёрстке.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 уроков • 4 часов
+              6 уроков • 6 часов
             </p>
           </div>
           <button
@@ -727,138 +747,6 @@
                 </div>
                 <span class="text-gray-400"
                   >Проект: верстаем сайт с flexbox.</span
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- Модуль 6 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">
-              Модуль 6: Расширенные возможности CSS
-            </h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 уроков • 4 часа
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Псевдоклассы: наведение, активные элементы.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Псевдоэлементы: оформление текста и объектов.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Позиционирование элементов на странице.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Практика: доработка стиля своего сайта.</span
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- Модуль 7 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">
-              Модуль 7: Динамика и мультимедиа в вебе
-            </h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 уроков • 4 часа
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Красивые градиенты и фоны.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Анимации и плавные переходы.</span
                 >
               </li>
               <li class="flex items-center">
@@ -984,9 +872,9 @@
         >
           <h3 class="text-xl font-bold mb-2">Старт</h3>
           <div class="text-primary-500 text-2xl font-bold mb-4">
-            12 000 ₽
+            10 500 ₽
             <span class="text-gray-500 text-base font-normal"
-              >За 16 уроков</span
+              >За 14 уроков</span
             >
           </div>
           <ul class="flex-grow space-y-3 mb-6">
@@ -1039,9 +927,9 @@
         >
           <h3 class="text-xl font-bold mb-2">Pro</h3>
           <div class="text-primary-500 text-2xl font-bold mb-4">
-            24 000 ₽
+            21 000 ₽
             <span class="text-gray-500 text-base font-normal"
-              >за 32 уроков</span
+              >за 28 уроков</span
             >
           </div>
           <ul class="flex-grow space-y-3 mb-6">
