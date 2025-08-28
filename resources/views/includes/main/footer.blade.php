@@ -53,7 +53,7 @@
             href="https://dzen.ru/codekids"
             class="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center text-gray-300 hover:bg-purple-600 transition duration-300"
             >
-                <img width="20" height="20" style="border-radius: 90%" src="https://www.ph4.ru/DL/LOGO_ICON/y/ya_zen.gif" alt="">
+                <img width="20" height="20" style="border-radius: 90%" src="./assets/images/main/links/ya_zen.gif" alt="">
             </a>
         </div>
         </div>
