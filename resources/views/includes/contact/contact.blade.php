@@ -154,7 +154,7 @@
                 </a>
                   <a target="_blank"
                 href="https://www.tiktok.com/@codekids_academy29"
-                class="w-10 h-10 bg-indigo-100 rounded-full flex items-center justify-center text-indigo-600 hover:bg-indigo-200 transition duration-300"
+                class="w-10 h-10 bg-pink-100 rounded-full flex items-center justify-center text-pink-600 hover:bg-pink-200 transition duration-300"
                 >
                 <i class="fab fa-tiktok"></i>
                 </a>
