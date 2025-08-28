@@ -341,7 +341,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 1: Аналитическое мышление без кода
+              Модуль 1: Блокнот и ручка.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               7 уроков • 7 часов
@@ -375,7 +375,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Пробный ЕГЭ Проверка знаний (+Вводный материал)</span
+                  >Пробный ЕГЭ Проверка знаний (+Вводный материал).</span
                 >
               </li>
               <li class="flex items-center">
@@ -385,7 +385,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >1. Анализ информационных моделей</span
+                  >1. Анализ информационных моделей.</span
                 >
               </li>
               <li class="flex items-center">
@@ -395,7 +395,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >4. Кодирование и декодирование информации</span
+                  >4. Кодирование и декодирование информации.</span
                 >
               </li>
               <li class="flex items-center">
@@ -404,17 +404,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">7. Передача информации</span>
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >10. Поиск символов в текстовом редакторе</span
-                >
+                <span class="text-gray-400">7. Передача информации.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -423,7 +413,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >11. Вычисление количества информации</span
+                  >10. Поиск символов в текстовом редакторе.</span
                 >
               </li>
               <li class="flex items-center">
@@ -432,7 +422,17 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Итоговая практика</span>
+                <span class="text-gray-400"
+                  >11. Вычисление количества информации.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400">Итоговая практика.</span>
               </li>
             </ul>
           </div>
@@ -443,7 +443,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 2: Практика в таблицах</h3>
+            <h3 class="font-semibold">Модуль 2: Практика в таблицах. Excel. </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
             </p>
@@ -476,7 +476,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >3. Поиск информации в реляционных базах данных</span
+                  >3. Поиск информации в реляционных базах данных.</span
                 >
               </li>
               <li class="flex items-center">
@@ -493,7 +493,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400"> 18. Робот-сборщик монет</span>
+                <span class="text-gray-400"> 18. Робот-сборщик монет.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -501,7 +501,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Итоговая практика</span>
+                <span class="text-gray-400">Итоговая практика.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -509,7 +509,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Пробный ЕГЭ №1</span>
+                <span class="text-gray-400">Пробный ЕГЭ №1.</span>
               </li>
             </ul>
           </div>
@@ -521,7 +521,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 3: Python: с нуля до практики
+              Модуль 3: Python: с нуля до практики.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               9 уроков • 9 часов
@@ -556,7 +556,7 @@
                 </div>
                 <span class="text-gray-400"
                   >2. Построение таблиц истинности логических
-                  выражений</span
+                  выражений.</span
                 >
               </li>
               <li class="flex items-center">
@@ -567,7 +567,7 @@
                 </div>
                 <span class="text-gray-400"
                   >6. Определение результатов работы простейших
-                  алгоритмов</span
+                  алгоритмов.</span
                 >
               </li>
               <li class="flex items-center">
@@ -577,7 +577,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >8. Перебор слов и системы счисления</span
+                  >8. Перебор слов и системы счисления.</span
                 >
               </li>
               <li class="flex items-center">
@@ -587,7 +587,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >12. Выполнение алгоритмов для исполнителей</span
+                  >12. Выполнение алгоритмов для исполнителей.</span
                 >
               </li>
               <li class="flex items-center">
@@ -597,7 +597,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >13. Организация компьютерных сетей. Адресация</span
+                  >13. Организация компьютерных сетей. Адресация.</span
                 >
               </li>
               <li class="flex items-center">
@@ -607,7 +607,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >14. Кодирование чисел. Системы счисления</span
+                  >14. Кодирование чисел. Системы счисления.</span
                 >
               </li>
               <li class="flex items-center">
@@ -617,7 +617,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >15. Преобразование логических выражений</span
+                  >15. Преобразование логических выражений.</span
                 >
               </li>
               <li class="flex items-center">
@@ -626,7 +626,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Итоговая практика</span>
+                <span class="text-gray-400">Итоговая практика.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -634,7 +634,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Пробный ЕГЭ №2</span>
+                <span class="text-gray-400">Пробный ЕГЭ №2.</span>
               </li>
             </ul>
           </div>
@@ -645,7 +645,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 4: Сложные задания</h3>
+            <h3 class="font-semibold">Модуль 4: Сложные задания.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               8 уроков • 8 часов
             </p>
@@ -677,7 +677,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">16. Рекурсивные алгоритмы</span>
+                <span class="text-gray-400">16. Рекурсивные алгоритмы.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -686,17 +686,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >19. Выигрышная стратегия. Задание 1</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >20. Выигрышная стратегия. Задание 2</span
+                  >19. Выигрышная стратегия. Задание 1.</span
                 >
               </li>
               <li class="flex items-center">
@@ -706,7 +696,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >21. Выигрышная стратегия. Задание 3</span
+                  >20. Выигрышная стратегия. Задание 2.</span
                 >
               </li>
               <li class="flex items-center">
@@ -716,7 +706,17 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >22. Многопроцессорные системы</span
+                  >21. Выигрышная стратегия. Задание 3.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >22. Многопроцессорные системы.</span
                 >
               </li>
               <li class="flex items-center">
@@ -727,7 +727,7 @@
                 </div>
                 <span class="text-gray-400"
                   >23. Оператор присваивания и ветвления. Перебор вариантов,
-                  построение дерева</span
+                  построение дерева.</span
                 >
               </li> 
               <li class="flex items-center">
@@ -736,7 +736,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Итоговая практика</span>
+                <span class="text-gray-400">Итоговая практика.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -744,7 +744,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Пробный ЕГЭ №3</span>
+                <span class="text-gray-400">Пробный ЕГЭ №3.</span>
               </li>
             </ul>
           </div>
@@ -754,7 +754,7 @@
       <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
-            <h3 class="font-semibold">Модуль 5: Самые сложные задания</h3>
+            <h3 class="font-semibold">Модуль 5: Ultra Hardcore Tasks.</h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               7 уроков • 7 часов
             </p>
@@ -787,7 +787,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >24. Обработка символьных строк</span
+                  >24. Обработка символьных строк.</span
                 >
               </li>
               <li class="flex items-center">
@@ -797,7 +797,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >25. Обработка целочисленной информации</span
+                  >25. Обработка целочисленной информации.</span
                 >
               </li>
               <li class="flex items-center">
@@ -807,7 +807,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >26. Обработка целочисленной информации</span
+                  >26. Обработка целочисленной информации.</span
                 >
               </li>
               <li class="flex items-center">
@@ -816,7 +816,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">27. Программирование</span>
+                <span class="text-gray-400">27. Программирование.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -824,7 +824,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Итоговая практика</span>
+                <span class="text-gray-400">Итоговая практика.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -832,7 +832,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Повторение всех модулей</span>
+                <span class="text-gray-400">Повторение всех модулей.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -840,7 +840,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Пробный ЕГЭ №4</span>
+                <span class="text-gray-400">Пробный ЕГЭ №4.</span>
               </li>
             </ul>
           </div>

@@ -644,7 +644,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Реализуем телпортацию между уровнями.</span
+                  >Реализуем телепортацию между уровнями.</span
                 >
               </li>
               <li class="flex items-center">

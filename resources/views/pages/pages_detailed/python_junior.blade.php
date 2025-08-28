@@ -359,7 +359,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Работа с данными: создаём переменные. Учимся хранить данные.</span
+                  >Работа с данными, учимся их хранить, передавать и обрабатывать.</span
                 >
               </li>
               <li class="flex items-center">
@@ -369,7 +369,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Символы и тексты: изучаем строки. Что такое String.</span
+                  >Символы и тексты. Что такое String.</span
                 >
               </li>
                <li class="flex items-center">
@@ -402,7 +402,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 2: Построение логики программ. Function - кто она такая?
+              Модуль 2: Построение логики программ. Массивы данных. Function - кто она такая?
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               7 уроков • 7 часов
@@ -465,7 +465,17 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Условия + циклы, что они умею. if, else, while, for.</span>
+                <span class="text-gray-400">Работа с массивами, Array, Insert, Remove.</span>
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Многомерный массив. Массивы внутри массивов.</span
+                >
               </li>
               <li class="flex items-center">
                 <div
@@ -475,16 +485,6 @@
                 </div>
                 <span class="text-gray-400"
                   >Что такое функция и зачем она нужна. Function.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Практика функций: продолжаем обучение.</span
                 >
               </li>
               <li class="flex items-center">

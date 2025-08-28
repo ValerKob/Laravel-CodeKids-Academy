@@ -365,7 +365,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Числа и вычисления: простая математика в Python. Integer и Float/</span>
+                <span class="text-gray-400">Числа и вычисления: простая математика в Python. Integer и Float.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -448,7 +448,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Циклы: повторяем действия автоматически.</span>
+                <span class="text-gray-400">Циклы: повторяем действия автоматически. For, While.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -456,7 +456,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Функции и зачем они нужны.</span>
+                <span class="text-gray-400">Функции и зачем они нужны. Function.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -465,7 +465,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Передача данных в функции и возврат результата.</span
+                  >Передача данных в функции и возврат результата. Рекурсия.</span
                 >
               </li>
               <li class="flex items-center">
@@ -519,7 +519,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Подключение библиотек и использование чужого кода.</span>
+                <span class="text-gray-400">Подключение библиотек и использование чужого кода. Import.</span>
               </li>
                <li class="flex items-center">
                 <div
@@ -536,7 +536,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Линейные коллекции: списки и tuple.</span
+                  >Линейные коллекции.</span
                 >
               </li>
               <li class="flex items-center">
@@ -566,7 +566,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Закрепляем пройденный материал. Делаем мини-игру.</span
+                  >Закрепляем пройденный материал. Делаем мини-игру Snake (Змейка).</span
                 >
               </li>
             </ul>

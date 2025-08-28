@@ -414,7 +414,7 @@
               Модуль 2: Создаём свой мир (Изучам язык программирования Lua).
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              5 уроков • 5 часов
+              4 урока • 4 часа
             </p>
           </div>
           <button
@@ -474,16 +474,6 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400"
-                  >Создаём анимаций, изучаем свойства Effects, Material, color. Сделам этот мир ярче.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
                 <span class="text-gray-400">Закрепляем материал, повторяем свойства Union, Intersect, Negate, Separate.</span>
               </li>
             </ul>
@@ -499,7 +489,7 @@
               Модуль 3: Содаём логику и анимацию в игре с помощью языка Lua.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
-              5 урока • 5 часа
+              6 уроков • 6 часов
             </p>
           </div>
           <button
@@ -551,6 +541,16 @@
                 </div>
                 <span class="text-gray-400"
                   >Реализуем телепортацию и анимации в игре.</span
+                >
+              </li>
+               <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Изучаем свойства Effects, Material, color. Сделам этот мир ярче.</span
                 >
               </li>
               <li class="flex items-center">
@@ -617,7 +617,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создаём шутер, делать очки опыта и здоровья.</span
+                  >Создаём шутер, делаем очки опыта и здоровья.</span
                 >
               </li>
               <li class="flex items-center">
@@ -627,7 +627,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создаём гонки, делаем гоночную трассу, старт и финишь. Тут мы с тобой, заставим всё кататься.</span
+                  >Создаём гонки, делаем гоночную трассу, старт и финишь. Тут мы с тобой, заставим всё двигаться.</span
                 >
               </li>
               <li class="flex items-center">
@@ -637,7 +637,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Реализуаем систему диалогов, анимаций, покупки и продажи.</span
+                  >Реализуаем систему диалогов, анимаций, покупки и продажи. Создаем магазин.</span
                 >
               </li>
               <li class="flex items-center">

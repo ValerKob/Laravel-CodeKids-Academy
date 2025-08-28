@@ -434,171 +434,11 @@
       </div>
 
       <!-- Модуль 2 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">Модуль 2: Программирование с помощью ИИ.</h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              4 урока • 4 часа
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Автоматическая генерация кода: первые шаги.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Как использовать ИИ для помощи в написании программ.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Практика: создаём простую веб-страницу с подсказками ИИ.</span
-                >
-              </li>
-               <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Закрепляем пройденный материал.</span
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- Модуль 3 -->
-      <div class="border border-gray-200 rounded-lg p-4">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="font-semibold">Модуль 3: Искусственный интеллект в графикею.</h3>
-            <p class="text-sm text-gray-600 dark:text-gray-100">
-              5 урока • 5 часов
-            </p>
-          </div>
-          <button
-            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
-          >
-            <i
-              class="ri-arrow-down-s-line transition-transform duration-300"
-            ></i>
-          </button>
-        </div>
-
-        <div
-          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
-          style="height: 0"
-        >
-          <div class="inner p-0">
-            <div class="mb-3">
-              <div class="progress-bar">
-                <div class="progress" style="width: 100%"></div>
-              </div>
-            </div>
-
-            <ul class="space-y-3">
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Основы создания изображений нейросетями.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Проектируем фоновые сцены для игры.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Разработка внешности персонажей.</span
-                >
-              </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Собираем визуальный стиль проекта.</span
-                >
-              </li>
-                <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Закрепляем пройденный материал.</span
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- Модуль 4 -->
-      <div class="border border-gray-200 rounded-lg p-4">
+     <div class="border border-gray-200 rounded-lg p-4">
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 4: Озвучка с ИИ и  Создание своей мультимедий. Делаем кино с нейросетями.
+              Модуль 2: Озвучка с ИИ и  Создание своей мультимедий. Делаем кино с нейросетями.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               9 урока • 9 часов
@@ -704,6 +544,166 @@
                 >
               </li>
                 <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Закрепляем пройденный материал.</span
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Модуль 3 -->
+      <div class="border border-gray-200 rounded-lg p-4">
+        <div class="flex justify-between items-start">
+          <div>
+            <h3 class="font-semibold">Модуль 3: Искусственный интеллект в графике.</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-100">
+              5 урока • 5 часов
+            </p>
+          </div>
+          <button
+            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
+          >
+            <i
+              class="ri-arrow-down-s-line transition-transform duration-300"
+            ></i>
+          </button>
+        </div>
+
+        <div
+          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
+          style="height: 0"
+        >
+          <div class="inner p-0">
+            <div class="mb-3">
+              <div class="progress-bar">
+                <div class="progress" style="width: 100%"></div>
+              </div>
+            </div>
+
+            <ul class="space-y-3">
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Основы создания изображений нейросетями.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Проектируем фоновые сцены для игры.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Разработка внешности персонажей.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Собираем визуальный стиль проекта.</span
+                >
+              </li>
+                <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Закрепляем пройденный материал.</span
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Модуль 4 -->
+      <div class="border border-gray-200 rounded-lg p-4">
+        <div class="flex justify-between items-start">
+          <div>
+            <h3 class="font-semibold">Модуль 4: Программирование с помощью ИИ.</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-100">
+              4 урока • 4 часа
+            </p>
+          </div>
+          <button
+            class="toggle-btn w-8 h-8 flex items-center justify-center text-gray-500 hover:bg-gray-100 rounded-full"
+          >
+            <i
+              class="ri-arrow-down-s-line transition-transform duration-300"
+            ></i>
+          </button>
+        </div>
+
+        <div
+          class="toggle-content overflow-hidden transition-all duration-500 ease-in-out"
+          style="height: 0"
+        >
+          <div class="inner p-0">
+            <div class="mb-3">
+              <div class="progress-bar">
+                <div class="progress" style="width: 100%"></div>
+              </div>
+            </div>
+
+            <ul class="space-y-3">
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Автоматическая генерация кода: первые шаги.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Как использовать ИИ для помощи в написании программ.</span
+                >
+              </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Практика: создаём простую веб-страницу с подсказками ИИ.</span
+                >
+              </li>
+               <li class="flex items-center">
                 <div
                   class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
                 >

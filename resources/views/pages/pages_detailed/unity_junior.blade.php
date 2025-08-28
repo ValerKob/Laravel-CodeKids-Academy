@@ -447,17 +447,7 @@
                   >Создание сцены и настройка проекта. Основы скриптов и переменных.</span
                 >
               </li>
-              <li class="flex items-center">
-                <div
-                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
-                >
-                  <i class="ri-lock-line text-sm"></i>
-                </div>
-                <span class="text-gray-400"
-                  >Движение персонажа по уровню с помощью физики.</span
-                >
-              </li>
-              <li class="flex items-center">
+               <li class="flex items-center">
                 <div
                   class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
                 >
@@ -467,6 +457,16 @@
                   >Постройка карты и добавление финиша.</span
                 >
               </li>
+              <li class="flex items-center">
+                <div
+                  class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
+                >
+                  <i class="ri-lock-line text-sm"></i>
+                </div>
+                <span class="text-gray-400"
+                  >Движение персонажа по уровню с помощью физики.</span
+                >
+              </li>ъ
                <li class="flex items-center">
                 <div
                   class="w-6 h-6 flex items-center justify-center bg-gray-200 text-gray-500 rounded-full mr-3"
@@ -515,7 +515,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 3: Создание 2D-игры «Космический рейнджер»
+              Модуль 3: Создание 2D-игры «Зомби-апокалипсис».
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
@@ -549,7 +549,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создание космического корабля и управление им.</span
+                  >Создание карты, деталей, персонажа и управление им.</span
                 >
               </li>
               <li class="flex items-center">
@@ -559,7 +559,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Фон, звёзды, астероиды.</span
+                  >Фон, звуки, зомби, оружие.</span
                 >
               </li>
               <li class="flex items-center">
@@ -597,7 +597,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 4: Продвинутые элементы 2D-шутера
+              Модуль 4: Продвинутые элементы 2D-игры.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               5 уроков • 5 часов
@@ -641,7 +641,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Взрывы, эффекты и здоровье корабля.</span
+                  >Взрывы, эффекты и здоровье персонажа.</span
                 >
               </li>
               <li class="flex items-center">
@@ -659,7 +659,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Экран с прогрессией уровней.</span
+                  >Экран с уровнями.</span
                 >
               </li>
               <li class="flex items-center">
@@ -669,7 +669,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Закрепляем пройденный материал, делаем Мини-босса в космосе.</span
+                  >Закрепляем пройденный материал, делаем Мини-босса на карте.</span
                 >
               </li>
             </ul>
@@ -725,7 +725,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Система апгрейдов корабля (скорость, оружие).</span
+                  >Система апгрейдов персонажа (скорость, оружие).</span
                 >
               </li>
               <li class="flex items-center">

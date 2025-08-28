@@ -330,7 +330,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 1: Первые шаги в веб-разработке
+              Модуль 1: Первые шаги в веб-разработке.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               6 урока • 6 часов
@@ -363,7 +363,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Как работает интернет и сайты.</span>
+                <span class="text-gray-400">Интернет изнутри: как всё устроено.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -372,7 +372,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Из чего состоит страница: структура и логика.</span
+                  >Логика и разметка страниц. Блоки, Cекций, Header, Footer.</span
                 >
               </li>
               <li class="flex items-center">
@@ -382,7 +382,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Личный мини-проект: создаём визитку-портфолио.</span
+                  >Создаём свой стринцы. Что такое Div? </span
                 >
               </li>
                 <li class="flex items-center">
@@ -392,7 +392,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Добавляем картинки и галереи.</span
+                  >Добавляем ссылки, списки, таблицы, кнопки.</span
                 >
               </li>
               <li class="flex items-center">
@@ -401,7 +401,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Создаём информативные статьи и посты.</span>
+                <span class="text-gray-400">Создаём своё мини-портфолио. Добавляем фото и видео.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -454,7 +454,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Основные теги и их назначение.</span>
+                <span class="text-gray-400">Работа ссылками, кнопками и полями.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -463,7 +463,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Создание таблиц и вывод информации.</span
+                  >Работа с формамию Post и Get.</span
                 >
               </li>
               <li class="flex items-center">
@@ -472,7 +472,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Вложенные элементы и иерархия структуры.</span>
+                <span class="text-gray-400">Иерархия структуры сайта.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -535,7 +535,7 @@
                 >
                   <i class="ri-lock-line text-sm"></i>
                 </div>
-                <span class="text-gray-400">Стили для элементов: базовые селекторы.</span>
+                <span class="text-gray-400">Начинаем применять стили. Color, Background, Font-size и другие.</span>
               </li>
               <li class="flex items-center">
                 <div
@@ -544,7 +544,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Контекстные правила оформления.</span
+                  >Кто такие Hover, Active и Focus.</span
                 >
               </li>
               <li class="flex items-center">
@@ -574,7 +574,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Псевдоэлементы: оформление текста и объектов.</span
+                  >Анимаций, зачем они нужны и как сделать сайт подвижным.</span
                 >
               </li>
               <li class="flex items-center">
@@ -584,7 +584,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Позиционирование элементов на странице.</span
+                  >Позиционирование элементов на странице. Position, Margin, Padding.</span
                 >
               </li>
               <li class="flex items-center">
@@ -682,7 +682,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 5: Современные подходы к вёрстке.
+              Модуль 5: Создаём свой сайт, Section, Container.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               6 уроков • 6 часов
@@ -716,7 +716,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Что такое контейнеры и зачем они нужны.</span
+                  >Что такое контейнеры, секций и зачем они нужны.</span
                 >
               </li>
               <li class="flex items-center">
@@ -726,7 +726,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Разные виды блоков на странице.</span
+                  >Тот самый Grid.</span
                 >
               </li>
               <li class="flex items-center">
@@ -746,7 +746,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Проект: верстаем сайт с flexbox.</span
+                  >Проект: верстаем сайт с flexbox и grid.</span
                 >
               </li>
               <li class="flex items-center">
@@ -766,7 +766,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Итоговый проект: полноценный сайт с дизайном.</span
+                  >Закрепляем пройденный материал и делаем своё портфолио.</span
                 >
               </li>
             </ul>

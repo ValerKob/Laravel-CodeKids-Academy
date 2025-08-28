@@ -404,7 +404,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 2: CSS: стиль, порядок, магия. Figma, Tilda and Photoshop.
+              Модуль 2: CSS: стиль, порядок, магия. Figma and Tilda.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               6 уроков • 6 часов
@@ -545,7 +545,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Функция, ловим нажатия и действия пользователя на странице.</span
+                  >Условия, циклы, массивы. Храним данные, Даа ТЕ самые COOKIES (Печеньки).</span
                 >
               </li>
               <li class="flex items-center">
@@ -555,7 +555,7 @@
                   <i class="ri-lock-line text-sm"></i>
                 </div>
                 <span class="text-gray-400"
-                  >Условия, циклы, массивы. Храним данные, Даа ТЕ самые COOKIES (Печеньки).</span
+                  >Функция, ловим нажатия и действия пользователя на странице.</span
                 >
               </li>
               <li class="flex items-center">
