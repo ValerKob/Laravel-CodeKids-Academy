@@ -55,6 +55,12 @@
             >
                 <img width="20" height="20" style="border-radius: 90%" src="https://www.ph4.ru/DL/LOGO_ICON/y/ya_zen.gif" alt="">
             </a>
+            <a target="_blank"
+            href="https://www.tiktok.com/@codekids_academy29"
+            class="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center text-gray-300 hover:bg-blue-600 transition duration-300"
+            >
+            <i class="fab fa-tiktok"></i>
+            </a>
         </div>
         </div>
 
