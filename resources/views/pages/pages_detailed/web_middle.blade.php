@@ -672,7 +672,7 @@
         <div class="flex justify-between items-start">
           <div>
             <h3 class="font-semibold">
-              Модуль 5: Командная разработка, изучаем запросы Git, Работаем с тем самым GitHub.
+              Модуль 5: Работа с Open Server. Изучаем запросы Git, Работаем с тем самым GitHub.
             </h3>
             <p class="text-sm text-gray-600 dark:text-gray-100">
               6 уроков • 6 часов
