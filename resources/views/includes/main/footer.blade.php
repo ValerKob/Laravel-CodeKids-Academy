@@ -53,13 +53,13 @@
             href="https://rutube.ru/channel/63620817"
             class="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center text-gray-300 hover:bg-indigo-600 transition duration-300"
             >
-                <img width="20" height="20" style="border-radius: 90%" src="https://yastatic.net/naydex/yandex-search/m8nl6cD85/5c82fcRGZ/CWgqL4J-bGToBH7cw_j7VjkJPCemnX43PrkHFt8_fuzpOBRDDHflLLFxAMQ3LzUbWQYGKaFvwN9ZwZcSjuxUlVRlBgarVzl0_EUegJuc3icVcA1m2oV6X0vELwund271yYlJA7yzReh5mexBrvbc6nxCZyiwrnQ" alt="">
+                <img width="20" height="20" style="border-radius: 90%" src="https://www.ph4.ru/DL/LOGO_ICON/y/ya_zen.gif" alt="">
             </a>
               <a target="_blank"
             href="https://dzen.ru/codekids"
             class="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center text-gray-300 hover:bg-purple-600 transition duration-300"
             >
-                <img width="20" height="20" style="border-radius: 90%" src="https://yastatic.net/naydex/yandex-search/m8nl6cD85/5c82fcRGZ/CWgqL4J-bGToBH7cw_j7VjkJPCemnX43PrkHFt8_fuzpOBRDDHflLLFxAMQ3LzUbWQYGKaFvwN9ZwZcSjuxUlVRlBgarVzl0_EUegJuc3icVcA1m2oV6X0vELwund271yYlJA7yzReh5mexBrvbc6nxCZyiwrnQ" alt="">
+                <img width="20" height="20" style="border-radius: 90%" src="https://www.ph4.ru/DL/LOGO_ICON/y/ya_zen.gif" alt="">
             </a>
         </div>
         </div>
