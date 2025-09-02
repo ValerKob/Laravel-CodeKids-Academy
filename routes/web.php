@@ -50,7 +50,3 @@ Route::get('/messages', [SendUsersMessageController::class, 'list_output'])
 
 // Post Send Users Messages
 Route::post('/send-message', [SendUsersMessageController::class, 'store'])->name('send.message');
-
-
-// Pay
-Route::view('pay', 'pages.pay.index')->name('pay');
