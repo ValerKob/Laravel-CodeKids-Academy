@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\SendUsersMessageController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AuthController;
 
 /*
 |--------------------------------------------------------------------------
@@ -34,6 +35,18 @@ Route::view('unity_middle', 'pages.pages_detailed.unity_middle')->name('unity_mi
 Route::view('privacy_policy', 'pages.politics.privacy_policy')->name('privacy_policy');
 Route::view('user_agreement', 'pages.politics.user_agreement')->name('user_agreement');
 Route::view('contract_offer', 'pages.politics.contract_offer')->name('contract_offer');
+
+// Страница логина
+Route::get('/login', [AuthController::class, 'showLogin'])->name('login');
+Route::post('/login', [AuthController::class, 'login'])->name('login.process');
+
+// Logout
+Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
+
+// Страница сообщений — только после логина
+Route::get('/messages', [SendUsersMessageController::class, 'list_output'])
+    ->middleware('admin.auth')
+    ->name('messages.index');
 
 // Post Send Users Messages
 Route::post('/send-message', [SendUsersMessageController::class, 'store'])->name('send.message');

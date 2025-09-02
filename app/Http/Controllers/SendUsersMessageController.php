@@ -24,4 +24,24 @@ class SendUsersMessageController extends Controller
 
         return redirect()->back()->with('success', 'Сообщение успешно отправлено!');
     }
+       // вывод списка
+    public function list_output(Request $request)
+    {
+        $query = SendUsersMessage::query();
+
+        // поиск по имени/email/телефону/курсу/сообщению
+        if ($search = $request->input('search')) {
+            $query->where(function ($q) use ($search) {
+                $q->where('name', 'like', "%$search%")
+                  ->orWhere('email', 'like', "%$search%")
+                  ->orWhere('phone', 'like', "%$search%")
+                  ->orWhere('course', 'like', "%$search%")
+                  ->orWhere('message', 'like', "%$search%");
+            });
+        }
+
+        $messages = $query->orderBy('created_at', 'desc')->paginate(10);
+
+        return view('pages.messages.index', compact('messages'));
+    }
 }

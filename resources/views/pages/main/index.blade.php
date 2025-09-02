@@ -155,7 +155,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/roblox_junior.jpg');
+            background-image: url('./assets/images/main/roblox_junior_new.png');
             "
         ></div>
         <div class="p-6">
