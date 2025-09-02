@@ -17,17 +17,28 @@
 
             <div>
                 <label for="email" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Email</label>
-                <input type="email" name="email" required class="w-full px-3 py-2 border rounded-md">
+                <input 
+                    type="email" 
+                    name="email" 
+                    required 
+                    class="w-full px-3 py-2 border rounded-md text-gray-900 dark:text-white bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-colors"
+                >
             </div>
 
             <div>
                 <label for="password" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Пароль</label>
-                <input type="password" name="password" required class="w-full px-3 py-2 border rounded-md">
+                <input 
+                    type="password" 
+                    name="password" 
+                    required 
+                    class="w-full px-3 py-2 border rounded-md text-gray-900 dark:text-white bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-colors"
+                >
             </div>
 
             <button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-md">Войти</button>
         </form>
     </div>
 </div>
+
 
 @endsection
