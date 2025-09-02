@@ -43,7 +43,14 @@
                     @forelse($messages as $message)
                         <tr class="hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200">
                             <td class="py-4 px-6 text-sm text-gray-800 dark:text-gray-200">{{ $message->id }}</td>
-                            <td class="py-4 px-6 text-sm text-gray-800 dark:text-gray-200">{{ $message->name }}</td>
+                            <td class="py-4 px-6 text-sm text-gray-800 dark:text-gray-200">
+                                {{ $message->name }}
+                                 @if($message->created_at->diffInHours(now()) < 24)
+                                    <span class="ml-2 inline-block bg-green-500 dark:bg-green-400 text-white text-xs font-semibold px-2 py-1 rounded-full uppercase shadow-md animate-pulse">
+                                        NEW
+                                    </span>
+                                @endif
+                            </td>
                             <td class="py-4 px-6 text-sm text-gray-800 dark:text-gray-200">{{ $message->email }}</td>
                             <td class="py-4 px-6 text-sm text-gray-800 dark:text-gray-200">{{ $message->phone }}</td>
                             <td class="py-4 px-6 text-sm text-gray-800 dark:text-gray-200">{{ $message->course }}</td>
