@@ -54,6 +54,11 @@
         class="font-medium hover:text-primary-600 dark:hover:text-primary-400 transition"
         >Контакты</a
         >
+         <a
+        href="{{ route('ai') }}"
+        class="font-medium hover:text-primary-600 dark:hover:text-primary-400 transition"
+        >AI</a
+        >
     </nav>
     <div class="hidden md:flex items-center space-x-4">
         <button
@@ -127,6 +132,11 @@
         href="#contact"
         class="text-gray-700 hover:text-indigo-600 font-medium py-2 dark:text-gray-100"
         >Контакты</a
+        >
+         <a
+        href="{{ route('ai') }}"
+        class="text-gray-700 hover:text-indigo-600 font-medium py-2 dark:text-gray-100"
+        >AI</a
         >
         <a
         href="#contact"
