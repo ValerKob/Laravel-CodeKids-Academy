@@ -197,7 +197,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/python_junior.jpg');
+            background-image: url('./assets/images/main/python_junior_new.png');
             "
         ></div>
         <div class="p-6">
@@ -277,7 +277,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/unity_junior.jpg');
+            background-image: url('./assets/images/main/unity_junior_new.png');
             "
         ></div>
         <div class="p-6">
@@ -319,7 +319,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/web_junior.jpg');
+            background-image: url('./assets/images/main/web_junior_new.png');
             "
         ></div>
         <div class="p-6">
@@ -361,7 +361,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/roblox_middle.jpg');
+            background-image: url('./assets/images/main/roblox_middle_new.png');
             "
         ></div>
         <div class="p-6">
@@ -402,7 +402,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/python_middle.jpeg');
+            background-image: url('./assets/images/main/python_middle_new.png');
             "
         ></div>
         <div class="p-6">
@@ -442,7 +442,7 @@
         >
         <div
             class="h-48 bg-cover bg-center"
-            style="background-image: url('./assets/images/main/use.jpg')"
+            style="background-image: url('./assets/images/main/use_new.png')"
         ></div>
         <div class="p-6">
             <div class="flex justify-between items-center mb-3">
@@ -484,7 +484,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/ai_middle.png');
+            background-image: url('./assets/images/main/ai_middle_new.png');
             "
         ></div>
         <div class="p-6">
@@ -526,7 +526,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/ai_junior.png');
+            background-image: url('./assets/images/main/ai_junior_new.png');
             "
         ></div>
         <div class="p-6">

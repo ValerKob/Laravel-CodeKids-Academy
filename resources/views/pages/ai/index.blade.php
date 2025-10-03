@@ -152,8 +152,8 @@
         <div class="p-6">
             <div class="flex justify-between items-center mb-3">
             <span
-                class="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded"
-                >Бесплатный</span
+                class="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded"
+                >Бесплатный (Нужен VPN)</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
                 >От Google.</span
@@ -494,14 +494,59 @@
             </div>
         </div>
         </div>
-        <!-- Курс 13 -->
+        <!-- Нейронка 11 -->
+        <div
+        class="bg-white text-gray-800 dark:bg-gray-800 dark:text-gray-100 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition course-card video-ai"
+        >
+        <div
+            class="h-48 bg-cover bg-center"
+            style="
+            background-image: url('./assets/images/main/ai/pix_verse.jpeg');
+            "
+        ></div>
+        <div class="p-6">
+            <div class="flex justify-between items-center mb-3">
+            <span
+                class="bg-purple-100 text-purple-800 text-xs font-medium px-2.5 py-0.5 rounded"
+                >Платный</span
+            >
+            <span class="text-gray-500 text-sm dark:text-gray-300"
+                >Но есть 3 видео бесплатно!)</span
+            >
+            </div>
+            <h3 class="text-xl font-bold text-primary mb-2">
+            PixVerse
+            </h3>
+            <p class="text-gray-600 mb-4 dark:text-gray-100">
+                AI-сервис для создания коротких анимированных роликов из фото, текста или 
+                видео с эффектами и шаблонами; доступна бесплатная версия с ограничениями и платные тарифы 
+                с расширенным функционалом.
+            </p>
+            <div class="flex justify-between items-center">
+            <span class="text-lg font-bold text-primary">
+                {{-- Тут что-то будет --}}
+            </span> 
+            <a
+                href="https://app.pixverse.ai/login"
+                class="text-purple-600 font-medium flex items-center hover:underline"
+                target="_blank"
+            >
+                Перейти
+                <div class="w-5 h-5 flex items-center justify-center ml-1">
+                <i class="ri-arrow-right-line"></i>
+                </div>
+            </a>
+            </div>
+        </div>
+        </div>
+        <!-- Нейронка 12 -->
         <div
         class="bg-white text-gray-800 dark:bg-gray-800 dark:text-gray-100 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition course-card presentations-ai"
         >
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/unity_middle.png');
+            background-image: url('./assets/images/main/ai/gamma.webp');
             "
         ></div>
         <div class="p-6">
