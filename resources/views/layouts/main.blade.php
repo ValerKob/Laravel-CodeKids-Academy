@@ -67,6 +67,21 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.min.css"
     />
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Code Kids Academy",
+      "url": "https://codekidsacademy.ru",
+      "logo": "https://codekidsacademy.ru/assets/images/favicon/ms-icon-310x310.png",
+      "sameAs": [
+        "https://vk.com/codekids_academy",
+        "https://t.me/codekidsacademy",
+        "https://www.youtube.com/@codekids_academy"
+      ]
+    }
+    </script>
 </head>
 
 <body class="bg-white dark:bg-gray-900 font-sans text-gray-800 dark:text-gray-200">
