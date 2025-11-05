@@ -6,7 +6,24 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <link rel="icon" href="../assets/img/favicon.png" type="image/png" />
-    <title>@yield('title')</title>
+
+    <!-- SEO-заголовки -->
+    <title>@yield('title', 'Code Kids Academy — онлайн-школа программирования для детей')</title>
+    <meta name="description" content="@yield('meta_description', 'Онлайн-школа Code Kids Academy обучает детей программированию, созданию игр и веб-разработке. Начни обучение с нуля!')" />
+    <meta name="keywords" content="@yield('meta_keywords', 'программирование для детей, Python, Roblox, веб-разработка, обучение IT')" />
+    <meta name="author" content="Code Kids Academy" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Каноническая ссылка -->
+    <link rel="canonical" href="{{ url()->current() }}" />
+
+    <!-- Open Graph для соцсетей -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Code Kids Academy">
+    <meta property="og:title" content="@yield('og_title', 'Code Kids Academy — онлайн-школа программирования для детей')">
+    <meta property="og:description" content="@yield('og_description', 'Обучаем детей программированию, созданию игр, веб-разработке и IT-проектам.')">
+    <meta property="og:image" content="@yield('og_image', asset('assets/images/main/preview.png'))">
+    <meta property="og:url" content="{{ url()->current() }}">
 
     <!-- Favicon -->
     <link  rel= "apple-touch-icon"  sizes= "57x57"  href= "./assets/images/favicon/apple-icon-57x57.png" > 

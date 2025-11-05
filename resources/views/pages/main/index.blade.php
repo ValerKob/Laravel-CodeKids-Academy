@@ -1,6 +1,9 @@
 @extends('layouts.main')
 
 @section('title', 'Code Kids Academy -  Дополнительное Образование')
+@section('meta_description', 'Онлайн-школа программирования для детей: курсы Python, Roblox, веб-разработка и IT. Учись создавать игры и сайты с нуля!')
+@section('meta_keywords', 'курсы программирования для детей, Roblox Studio, Python для начинающих, веб-разработка, обучение IT')
+@section('og_image', asset('assets/images/main/preview.png'))
 
 @section('content')
 <!-- Hero Section -->
