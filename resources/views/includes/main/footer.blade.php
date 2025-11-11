@@ -25,12 +25,12 @@
             >
             <i class="fab fa-vk"></i>
             </a>
-            <a target="_blank"
+            <!-- <a target="_blank"
             href="https://www.instagram.com/codekids29"
             class="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center text-gray-300 hover:bg-pink-600 transition duration-300"
             >
             <i class="fab fa-instagram"></i>
-            </a>
+            </a> -->
             <a target="_blank"
             href="https://t.me/codekids_academy"
             class="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center text-gray-300 hover:bg-blue-500 transition duration-300"
