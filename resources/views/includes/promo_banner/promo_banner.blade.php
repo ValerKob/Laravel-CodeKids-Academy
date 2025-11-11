@@ -1,5 +1,5 @@
 <!--================ Start Promo Banner =================-->
-<section
+<!-- <section
     class="bg-gradient-to-r from-purple-500 to-indigo-600 text-white py-8"
 >
     <div class="container mx-auto px-4 text-center">
@@ -12,5 +12,5 @@
         Получить скидку
     </a>
     </div>
-</section>
+</section> -->
 <!--================ End Promo Banner =================-->
