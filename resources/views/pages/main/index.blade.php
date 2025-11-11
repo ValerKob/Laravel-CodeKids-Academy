@@ -48,7 +48,7 @@
     >
         <img
         id="hero-image"
-        src="./assets/images/main/slider/slider_1.jpg"
+        src="./assets/images/main/slider/webp/slider_1.webp"
         alt="Дети программируют"
         class="rounded-xl shadow-xl w-full max-w-md animate-float"
         />
@@ -158,7 +158,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/roblox_junior_new.png');
+            background-image: url('./assets/images/main/webp/roblox_junior.webp');
             "
         ></div>
         <div class="p-6">
@@ -200,7 +200,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/python_junior_new.png');
+            background-image: url('./assets/images/main/webp/python_junior.webp');
             "
         ></div>
         <div class="p-6">
@@ -280,7 +280,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/unity_junior_new.png');
+            background-image: url('./assets/images/main/webp/unity_junior.webp');
             "
         ></div>
         <div class="p-6">
@@ -322,7 +322,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/web_junior_new.png');
+            background-image: url('./assets/images/main/webp/web_junior.webp');
             "
         ></div>
         <div class="p-6">
@@ -364,7 +364,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/roblox_middle_new.png');
+            background-image: url('./assets/images/main/webp/roblox_middle.webp');
             "
         ></div>
         <div class="p-6">
@@ -405,7 +405,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/python_middle_new.png');
+            background-image: url('./assets/images/main/webp/python_middle.webp');
             "
         ></div>
         <div class="p-6">
@@ -445,7 +445,7 @@
         >
         <div
             class="h-48 bg-cover bg-center"
-            style="background-image: url('./assets/images/main/use_new.png')"
+            style="background-image: url('./assets/images/main/webp/use.webp')"
         ></div>
         <div class="p-6">
             <div class="flex justify-between items-center mb-3">
@@ -487,7 +487,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/ai_middle_new.png');
+            background-image: url('./assets/images/main/webp/ai_middle.webp');
             "
         ></div>
         <div class="p-6">
@@ -529,7 +529,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/ai_junior_new.png');
+            background-image: url('./assets/images/main/webp/ai_junior.webp');
             "
         ></div>
         <div class="p-6">
@@ -612,7 +612,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/web_middle_new.png');
+            background-image: url('./assets/images/main/webp/web_middle.webp');
             "
         ></div>
         <div class="p-6">
@@ -653,7 +653,7 @@
         <div
             class="h-48 bg-cover bg-center"
             style="
-            background-image: url('./assets/images/main/unity_middle_new.png');
+            background-image: url('./assets/images/main/webp/unity_middle.webp');
             "
         ></div>
         <div class="p-6">
@@ -749,7 +749,7 @@
         </div>
         <div class="lg:w-1/2">
         <img
-            src="./assets/images/main/about.jpg"
+            src="./assets/images/main/webp/about.webp"
             alt="Дети учатся программированию"
             class="w-full rounded-lg shadow-lg"
         />

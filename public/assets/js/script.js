@@ -258,17 +258,17 @@ const slides = [
     {
         title: "Программирование — суперсила будущего!",
         text: "Современные курсы для детей от 7 до 18 лет. Развиваем мышление и творчество.",
-        image: "./assets/images/main/slider/slider_1.jpg",
+        image: "./assets/images/main/slider/webp/slider_1.webp",
     },
     {
         title: "Создавай игры и сайты с нуля!",
         text: "Обучение Unity, Python, веб-разработке и многому другому.",
-        image: "./assets/images/main/slider/slider_2.jpg",
+        image: "./assets/images/main/slider/webp/slider_2.webp",
     },
     {
         title: "Твое IT-будущее начинается здесь!",
         text: "Интерактивные курсы, реальные проекты, поддержка преподавателя.",
-        image: "./assets/images/main/slider/slider_3.jpg",
+        image: "./assets/images/main/slider/webp/slider_3.webp",
     },
 ];
 
