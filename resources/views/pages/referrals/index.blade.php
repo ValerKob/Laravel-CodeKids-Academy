@@ -63,7 +63,7 @@
                 {{-- Тут что-то будет --}}
             </span>
             <a
-                href="{{ route('referrals_yandex_org') }}"
+                href="https://ya.cc/827xfV"
                 class="text-blue-600 font-medium flex items-center hover:underline"
                 target="_blank"
             >
