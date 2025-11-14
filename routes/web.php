@@ -53,3 +53,7 @@ Route::post('/send-message', [SendUsersMessageController::class, 'store'])->name
 
 // AI
 Route::view('ai', 'pages.ai.index')->name('ai');
+
+// Referrals
+Route::view('referrals', 'pages.referrals.index')->name('referrals');
+Route::view('referrals_yandex_org', 'pages.referrals.yandex_org.index')->name('referrals_yandex_org');
