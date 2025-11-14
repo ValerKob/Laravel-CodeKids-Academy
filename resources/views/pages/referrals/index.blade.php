@@ -31,7 +31,7 @@
         </button>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        <!-- Нейронка 1 -->
+        <!-- Реферальная ссылка 1 -->
         <div
         class="bg-white text-gray-800 dark:bg-gray-800 dark:text-gray-100 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition course-card text-yandex"
         >
@@ -44,7 +44,7 @@
         <div class="p-6">
             <div class="flex justify-between items-center mb-3">
             <span
-                class="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded"
+                class="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded"
                 >Бесплатный</span
             >
             <span class="text-gray-500 text-sm dark:text-gray-300"
@@ -64,7 +64,95 @@
             </span>
             <a
                 href="https://ya.cc/827xfV"
-                class="text-blue-600 font-medium flex items-center hover:underline"
+                class="text-green-600 font-medium flex items-center hover:underline"
+                target="_blank"
+            >
+                Перейти
+                <div class="w-5 h-5 flex items-center justify-center ml-1">
+                <i class="ri-arrow-right-line"></i>
+                </div>
+            </a>
+            </div>
+        </div>
+        </div>
+        <!-- Реферальная ссылка 2 -->
+        <div
+        class="bg-white text-gray-800 dark:bg-gray-800 dark:text-gray-100 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition course-card text-yandex"
+        >
+        <div
+            class="h-48 bg-cover bg-center"
+            style="
+            background-image: url('./assets/images/main/referrals/yandex_cash.webp');
+            "
+        ></div>
+        <div class="p-6">
+            <div class="flex justify-between items-center mb-3">
+            <span
+                class="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded"
+                >Бесплатный</span
+            >
+            <span class="text-gray-500 text-sm dark:text-gray-300"
+                >Встроенная алиса AI</span
+            >
+            </div>
+            <h3 class="text-xl font-bold text-primary mb-2">
+            Яндекс Браузера | Кэшбэк |
+            </h3>
+            <p class="mb-4 text-gray-600 dark:text-gray-100">
+            Умный ИИ-ассистент для учебы, работы и идей.
+            Поможет с текстами, кодом и любыми вопросами.
+            </p>
+            <div class="flex justify-between items-center">
+            <span class="text-lg font-bold text-primary">
+                {{-- Тут что-то будет --}}
+            </span>
+            <a
+                href="https://yandex.ru/project/browser/ecom/d/cashback/?utm_source=distribution&utm_medium=cpa&clid=13997584"
+                class="text-green-600 font-medium flex items-center hover:underline"
+                target="_blank"
+            >
+                Перейти
+                <div class="w-5 h-5 flex items-center justify-center ml-1">
+                <i class="ri-arrow-right-line"></i>
+                </div>
+            </a>
+            </div>
+        </div>
+        </div>
+        <!-- Реферальная ссылка 3 -->
+        <div
+        class="bg-white text-gray-800 dark:bg-gray-800 dark:text-gray-100 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition course-card text-yandex"
+        >
+        <div
+            class="h-48 bg-cover bg-center"
+            style="
+            background-image: url('./assets/images/main/referrals/yandex_extension.webp');
+            "
+        ></div>
+        <div class="p-6">
+            <div class="flex justify-between items-center mb-3">
+            <span
+                class="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded"
+                >Бесплатный</span
+            >
+            <span class="text-gray-500 text-sm dark:text-gray-300"
+                >Расширение для браузера</span
+            >
+            </div>
+            <h3 class="text-xl font-bold text-primary mb-2">
+            Яндекс Браузера | Расширение |
+            </h3>
+            <p class="mb-4 text-gray-600 dark:text-gray-100">
+            Умный ИИ-ассистент для учебы, работы и идей.
+            Поможет с текстами, кодом и любыми вопросами.
+            </p>
+            <div class="flex justify-between items-center">
+            <span class="text-lg font-bold text-primary">
+                {{-- Тут что-то будет --}}
+            </span>
+            <a
+                href="https://browser.yandex.ru/download?partner_id=831050&banerid=1313997586"
+                class="text-green-600 font-medium flex items-center hover:underline"
                 target="_blank"
             >
                 Перейти
